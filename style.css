@@ -1,0 +1,15 @@
+input:hover{
+	background-color: red;
+	color: lime;
+}
+
+h1 {
+	text-align: center;
+}
+
+.entradas{
+	height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
