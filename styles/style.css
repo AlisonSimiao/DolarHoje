@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+input{
+	color: #323232;
+	border: 0px;
+	font-size: 24px;
+	width: 100px;
+}
+
+input:hover{
+	color: lime;
+}
+
+
+
+header {
+	display: flex;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+	margin: auto;
+}
+
+main{
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	display: flex;
+	align-items: center;
+
+}
+
+.entradas{
+	color: greenyellow;
+	margin: auto;
+	margin-top: 15vh;
+}
